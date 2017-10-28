@@ -1,0 +1,5 @@
+set -e
+python bleep_test.py
+python leven_test.py
+python microphone_test.py
+python speech_recog.py

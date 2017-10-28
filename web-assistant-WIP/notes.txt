@@ -1,0 +1,10 @@
+Okay so we have it sending audio when you click start, now we just need to write
+it correctly using python using the WAVE library.
+
+Got it almost, trying to figure out how to write the str to the file is proving challenging...
+
+So we got it writing to a flat file, think we need to get the encoding figured out. Maybe
+transfer our progress back to our original project instead of relying on apache and whisper
+which really just does what we already do... but worse. Think it's the 12 to 32 bit function 
+in our code needs to be added to this maybe?o
+
